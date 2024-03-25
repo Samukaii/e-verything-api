@@ -1,0 +1,5 @@
+com/magicmarket/magicmarket/controllers/ProductController.class
+com/magicmarket/magicmarket/domain/product/RequestUpdateProduct.class
+com/magicmarket/magicmarket/domain/product/RequestCreateProduct.class
+com/magicmarket/magicmarket/domain/product/Product.class
+com/magicmarket/magicmarket/domain/product/ProductRepository.class

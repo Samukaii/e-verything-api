@@ -1,0 +1,6 @@
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/domain/product/Product.java
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/domain/product/RequestCreateProduct.java
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/domain/product/RequestUpdateProduct.java
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/MagicMarketApplication.java
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/controllers/ProductController.java
+/home/samuel/programming/magic-market/api/src/main/java/com/magicmarket/magicmarket/domain/product/ProductRepository.java
